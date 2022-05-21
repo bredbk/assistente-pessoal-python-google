@@ -1,0 +1,13 @@
+{
+    "nome": "pedro",
+    "acoes": [
+        {
+            "nome": "mostrar",
+            "objetos": [
+                "processador",
+                "memória",
+                "disco"
+            ]
+        }
+    ]
+}

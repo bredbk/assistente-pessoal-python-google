@@ -1,0 +1,4 @@
+pyaudio # sudo apt install portaudio19-dev
+SpeechRecognition
+nltk
+psutil
